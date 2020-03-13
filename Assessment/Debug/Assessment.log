@@ -1,0 +1,7 @@
+﻿  Assessment.cpp
+C:\Users\computing\OneDrive - University of Lincoln\Assessments\Games Programming\Assessment\Assessment\Assessment.cpp(66,34): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  Sprite.cpp
+C:\Users\computing\OneDrive - University of Lincoln\Assessments\Games Programming\Assessment\Assessment\Sprite.cpp(24,19): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+  Timer.cpp
+  Generating Code...
+  Assessment.vcxproj -> C:\Users\computing\OneDrive - University of Lincoln\Assessments\Games Programming\Assessment\Debug\Assessment.exe

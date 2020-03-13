@@ -47,7 +47,7 @@ int main(int argc, char* argv[])
         -1,
         SDL_RENDERER_ACCELERATED);
 
-    sprite = Sprite(0, 0, 17, 18, 4, 0, "\\Content\\marshmellow_man.png");
+    sprite = Sprite(0, 0, 17, 18, 4, 0, "/Content/marshmellow_man.png");
     sprite.load(renderer);
 
     while (!done)

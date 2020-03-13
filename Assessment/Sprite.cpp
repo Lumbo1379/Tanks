@@ -5,11 +5,11 @@ Sprite::Sprite() {}
 
 Sprite::Sprite(int x, int y, int width, int height, unsigned int numberOfFrames, int offset, const char* pathToSprite, bool useColourKey)
 {
-	this->x = 0;
-	this->y = 0;
-	this->width = 0;
-	this->height = 0;
-	this->numberOfFrames = 1;
+	this->x = x;
+	this->y = y;
+	this->width = width;
+	this->height = height;
+	this->numberOfFrames = numberOfFrames;
 	this->offset = offset;
 	path = pathToSprite;
 	animationSpeed = 100;
@@ -33,7 +33,7 @@ void Sprite::load(SDL_Renderer* renderer)
 
 	SDL_Surface* surface = IMG_Load(path);
 
-	SDL_Texture* texture = SDL_CreateTextureFromSurface(renderer, surface);
+	texture = SDL_CreateTextureFromSurface(renderer, surface);
 
 	SDL_FreeSurface(surface);
 

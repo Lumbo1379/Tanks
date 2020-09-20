@@ -7,11 +7,13 @@ class Timer
 {
 private:
 	int startTicks; // SDL time when the timer started
+	int frameTicks; // Time since last frame
 
 public:
 	Timer();
-	void resetTicksTimer();
-	int getTicks();
+	void resetFrameTicksTimer();
+	int getFrameTicks();
+	int getAnimationTicks();
 };
 
 

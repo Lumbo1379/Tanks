@@ -1,3 +1,105 @@
-﻿  Sprite.cpp
-C:\Users\computing\Documents\GitHub\Tanks\Assessment\Sprite.cpp(24,19): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
-  Assessment.vcxproj -> C:\Users\computing\Documents\GitHub\Tanks\Debug\Assessment.exe
+﻿  AnimateShotComponent.cpp
+  AnimateTankExplosionComponent.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\AnimateTankExplosionComponent.cpp(14,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\AnimateTankExplosionComponent.cpp(15,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AnimateTankTrackComponent.cpp
+  Assessment.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Mixer.h(26,2): warning C4091: 'static ': ignored on left of 'Mixer' when no variable is declared
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Assessment.cpp(184,25): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Assessment.cpp(202,25): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Assessment.cpp(268,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Assessment.cpp(605,116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Assessment.cpp(605,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  AStarPathComponent.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\AStarPathComponent.cpp(35,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\AStarPathComponent.cpp(37,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\AStarPathComponent.cpp(38,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\AStarPathComponent.cpp(131,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GameComponentBehaviour.cpp
+  GameObject.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.cpp(50,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.cpp(51,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.cpp(154,17): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.cpp(155,17): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  GameObjectBehaviour.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObjectBehaviour.cpp(43,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObjectBehaviour.cpp(44,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Inventory.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Inventory.cpp(302,21): warning C4018: '<': signed/unsigned mismatch
+  Item.cpp
+  KeyboardHandler.cpp
+  Logger.cpp
+  LogInSpatialGridComponent.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\LogInSpatialGridComponent.cpp(29,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\LogInSpatialGridComponent.cpp(30,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\LogInSpatialGridComponent.cpp(52,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\LogInSpatialGridComponent.cpp(57,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Mixer.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Mixer.h(26,2): warning C4091: 'static ': ignored on left of 'Mixer' when no variable is declared
+  MoveTankComponent.cpp
+  MoveTowardsComponent.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\MoveTowardsComponent.cpp(37,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\MoveTowardsComponent.cpp(39,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\MoveTowardsComponent.cpp(40,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MoveTurretComponent.cpp
+  Raycast.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Raycast.cpp(9,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Raycast.cpp(10,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Raycast.cpp(23,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Raycast.cpp(24,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ReflectCComponent.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Mixer.h(26,2): warning C4091: 'static ': ignored on left of 'Mixer' when no variable is declared
+  RevertMovementCComponent.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Mixer.h(26,2): warning C4091: 'static ': ignored on left of 'Mixer' when no variable is declared
+  Generating Code...
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<RotateTowardsComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<ReflectCComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<ShootProjectileComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<MoveTankComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<RevertMovementCComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<LogInSpatialGridComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<MoveTankComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<MoveTurretComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<ShootPlayerComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<AStarPathComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<AnimateShotComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<ShootProjectileComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<MoveTowardsComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<RotateTowardsComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<AnimateTankExplosionComponent>': not all control paths return a value
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\GameObject.h(70): warning C4715: 'GameObject::getComponent<RevertMovementCComponent>': not all control paths return a value
+  Compiling...
+  RotateTankComponent.cpp
+  RotateTowardsComponent.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\RotateTowardsComponent.cpp(12,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\RotateTowardsComponent.cpp(14,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ScreenText.cpp
+  ShootPlayerComponent.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Mixer.h(26,2): warning C4091: 'static ': ignored on left of 'Mixer' when no variable is declared
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\ShootPlayerComponent.cpp(19,33): warning C4018: '<': signed/unsigned mismatch
+  ShootProjectileComponent.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Mixer.h(26,2): warning C4091: 'static ': ignored on left of 'Mixer' when no variable is declared
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\ShootProjectileComponent.cpp(18,33): warning C4018: '<': signed/unsigned mismatch
+  SpatialGrid.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.cpp(38,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.cpp(40,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.cpp(91,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.cpp(92,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.cpp(104,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.cpp(109,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\SpatialGrid.cpp(114,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Sprite.cpp
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Sprite.cpp(39,20): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Sprite.cpp(40,33): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Sprite.cpp(40,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Sprite.cpp(40,49): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Sprite.cpp(40,49): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\FiercePC\Documents\GitHub\Tanks\Assessment\Sprite.cpp(99,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TargetTile.cpp
+  Timer.cpp
+  Vector2D.cpp
+  Generating Code...
+  Assessment.vcxproj -> C:\Users\FiercePC\Documents\GitHub\Tanks\Debug\Assessment.exe

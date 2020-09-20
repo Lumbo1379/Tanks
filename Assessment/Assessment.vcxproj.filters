@@ -16,11 +16,53 @@
     <Filter Include="Content">
       <UniqueIdentifier>{3ca912a4-fa1b-4f42-8641-15709e22b4f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Movement">
+      <UniqueIdentifier>{7df36b93-cb6c-4f8d-9bec-1238de560412}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Movement">
+      <UniqueIdentifier>{895c538d-2b49-41ec-88e8-798b2fe33bae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Animation">
+      <UniqueIdentifier>{70121b72-0cb8-4b48-a726-13aaa6ce4914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Mechanics">
+      <UniqueIdentifier>{573c052e-cb9d-4e6a-98db-01f0bf826625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Mechanics">
+      <UniqueIdentifier>{ab49cc9b-495f-407d-ace0-4c9adcd2a773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Collision">
+      <UniqueIdentifier>{0b4f4fa9-c2a7-4984-9cca-b3f397766df9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Collision">
+      <UniqueIdentifier>{b4781d1b-e998-4fdb-8e67-1d96b91bb1ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Animation">
+      <UniqueIdentifier>{7dbb6eaf-42db-4ff9-8b34-fcc92934694c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Inventory">
+      <UniqueIdentifier>{7099da7e-26f9-4e70-a6a0-35aa2915aee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Inventory">
+      <UniqueIdentifier>{38baccf0-5072-4f5b-a57a-5274a7d22879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Pathing">
+      <UniqueIdentifier>{9db51d12-8f22-4b10-8aaf-cf3c83f7ddb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Pathing">
+      <UniqueIdentifier>{81162ba7-e843-4c9a-9d9d-6dca08f8163f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sound">
+      <UniqueIdentifier>{36c07a59-0c44-403a-a253-08324b428121}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Logging">
+      <UniqueIdentifier>{a1ed61d6-b70b-489c-9bb6-3f07109d8460}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Logging">
+      <UniqueIdentifier>{d7254ddc-fd83-40c9-b66a-4be1e8af5de4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Assessment.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Timer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -29,6 +71,87 @@
     </ClCompile>
     <ClCompile Include="Sprite.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectBehaviour.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveTurretComponent.cpp">
+      <Filter>Source Files\Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveTankComponent.cpp">
+      <Filter>Source Files\Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateTankComponent.cpp">
+      <Filter>Source Files\Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimateTankTrackComponent.cpp">
+      <Filter>Source Files\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="LogInSpatialGridComponent.cpp">
+      <Filter>Source Files\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="SpatialGrid.cpp">
+      <Filter>Source Files\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Assessment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShootProjectileComponent.cpp">
+      <Filter>Source Files\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="GameComponentBehaviour.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RevertMovementCComponent.cpp">
+      <Filter>Source Files\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenText.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveTowardsComponent.cpp">
+      <Filter>Source Files\Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateTowardsComponent.cpp">
+      <Filter>Source Files\Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="ReflectCComponent.cpp">
+      <Filter>Source Files\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="TargetTile.cpp">
+      <Filter>Source Files\Pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimateShotComponent.cpp">
+      <Filter>Source Files\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="ShootPlayerComponent.cpp">
+      <Filter>Source Files\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Raycast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimateTankExplosionComponent.cpp">
+      <Filter>Source Files\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Mixer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>Source Files\Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="AStarPathComponent.cpp">
+      <Filter>Source Files\Pathing</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -41,13 +164,97 @@
     <ClInclude Include="Sprite.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectBehaviour.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameComponentBehaviour.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveTurretComponent.h">
+      <Filter>Header Files\Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveTankComponent.h">
+      <Filter>Header Files\Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateTankComponent.h">
+      <Filter>Header Files\Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimateTankTrackComponent.h">
+      <Filter>Header Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="LogInSpatialGridComponent.h">
+      <Filter>Header Files\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="SpatialGrid.h">
+      <Filter>Header Files\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="ShootProjectileComponent.h">
+      <Filter>Header Files\Mechanics</Filter>
+    </ClInclude>
+    <ClInclude Include="RevertMovementCComponent.h">
+      <Filter>Header Files\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="ReflectCComponent.h">
+      <Filter>Header Files\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InventoryItem.h">
+      <Filter>Header Files\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="PathTile.h">
+      <Filter>Header Files\Pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveTowardsComponent.h">
+      <Filter>Header Files\Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateTowardsComponent.h">
+      <Filter>Header Files\Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="TargetTile.h">
+      <Filter>Header Files\Pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimateShotComponent.h">
+      <Filter>Header Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="ShootPlayerComponent.h">
+      <Filter>Header Files\Mechanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Raycast.h">
+      <Filter>Header Files\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimateTankExplosionComponent.h">
+      <Filter>Header Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Mixer.h">
+      <Filter>Header Files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Header Files\Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="AStarPathComponent.h">
+      <Filter>Header Files\Pathing</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\..\Downloads\marshmellow_man.png">
       <Filter>Content</Filter>
     </Image>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
 </Project>

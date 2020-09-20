@@ -1,0 +1,205 @@
+20/09/20 17:48:54 Background music added from ../Assessment/Content/background_music.wav
+20/09/20 17:48:54 Sound effect added from ../Assessment/Content/explosion_sfx.wav
+20/09/20 17:48:54 Sound effect added from ../Assessment/Content/shot_sfx.wav
+20/09/20 17:48:54 Sound effect added from ../Assessment/Content/bounce_sfx.wav
+20/09/20 17:48:54 Font loading started! Path is '../Assessment/Content/roboto.ttf'
+20/09/20 17:48:54 Inventory loaded with 9 capacity
+20/09/20 17:48:54 Font loading started! Path is '../Assessment/Content/roboto.ttf'
+20/09/20 17:48:54 Font loading started! Path is '../Assessment/Content/roboto.ttf'
+20/09/20 17:48:54 Font loading started! Path is '../Assessment/Content/roboto.ttf'
+20/09/20 17:48:54 Font loading started! Path is '../Assessment/Content/roboto.ttf'
+20/09/20 17:48:54 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 0
+20/09/20 17:48:54 Wall created at row 0, column 0
+20/09/20 17:48:54 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 80, y: 0
+20/09/20 17:48:54 Wall created at row 0, column 1
+20/09/20 17:48:54 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 160, y: 0
+20/09/20 17:48:54 Wall created at row 0, column 2
+20/09/20 17:48:54 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 240, y: 0
+20/09/20 17:48:54 Wall created at row 0, column 3
+20/09/20 17:48:54 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 320, y: 0
+20/09/20 17:48:54 Wall created at row 0, column 4
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 400, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 5
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 480, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 6
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 560, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 7
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 640, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 8
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 720, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 9
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 800, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 10
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 880, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 11
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 960, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 12
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1040, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 13
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1120, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 14
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 0
+20/09/20 17:48:55 Wall created at row 0, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 80
+20/09/20 17:48:55 Wall created at row 1, column 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 80
+20/09/20 17:48:55 Wall created at row 1, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 160
+20/09/20 17:48:55 Wall created at row 2, column 0
+20/09/20 17:48:55 Game component class AnimateTankExplosionComponent added to object with Tag: 0 at x: 0, y: 0
+20/09/20 17:48:55 Game component class AnimateShotComponent added to object with Tag: 1 at x: 893, y: 149
+20/09/20 17:48:55 Game component class MoveTowardsComponent added to object with Tag: 1 at x: 880, y: 160
+20/09/20 17:48:55 Game component class RotateTowardsComponent added to object with Tag: 1 at x: 880, y: 160
+20/09/20 17:48:55 Game component class AStarPathComponent added to object with Tag: 1 at x: 880, y: 160
+20/09/20 17:48:55 Game component class RotateTowardsComponent added to object with Tag: 1 at x: 893, y: 149
+20/09/20 17:48:55 Game component class ShootPlayerComponent added to object with Tag: 1 at x: 893, y: 149
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game collision component class ReflectCComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game collision component class ReflectCComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game collision component class ReflectCComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 1 at x: 880, y: 160
+20/09/20 17:48:55 Game collision component class RevertMovementCComponent added to object with Tag: 1 at x: 880, y: 160
+20/09/20 17:48:55 Enemy created at row 2, column 11
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 160
+20/09/20 17:48:55 Wall created at row 2, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 240
+20/09/20 17:48:55 Wall created at row 3, column 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 240
+20/09/20 17:48:55 Wall created at row 3, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 320
+20/09/20 17:48:55 Wall created at row 4, column 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 800, y: 320
+20/09/20 17:48:55 Wall created at row 4, column 10
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 320
+20/09/20 17:48:55 Wall created at row 4, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 400
+20/09/20 17:48:55 Wall created at row 5, column 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 240, y: 400
+20/09/20 17:48:55 Wall created at row 5, column 3
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 320, y: 400
+20/09/20 17:48:55 Wall created at row 5, column 4
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 400, y: 400
+20/09/20 17:48:55 Wall created at row 5, column 5
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 800, y: 400
+20/09/20 17:48:55 Wall created at row 5, column 10
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 400
+20/09/20 17:48:55 Wall created at row 5, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 480
+20/09/20 17:48:55 Wall created at row 6, column 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 240, y: 480
+20/09/20 17:48:55 Wall created at row 6, column 3
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 320, y: 480
+20/09/20 17:48:55 Wall created at row 6, column 4
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 400, y: 480
+20/09/20 17:48:55 Wall created at row 6, column 5
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 800, y: 480
+20/09/20 17:48:55 Wall created at row 6, column 10
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 480
+20/09/20 17:48:55 Wall created at row 6, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 560
+20/09/20 17:48:55 Wall created at row 7, column 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 800, y: 560
+20/09/20 17:48:55 Wall created at row 7, column 10
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 560
+20/09/20 17:48:55 Wall created at row 7, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 640
+20/09/20 17:48:55 Wall created at row 8, column 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 640
+20/09/20 17:48:55 Wall created at row 8, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 720
+20/09/20 17:48:55 Wall created at row 9, column 0
+20/09/20 17:48:55 Game component class AnimateTankExplosionComponent added to object with Tag: 0 at x: 0, y: 0
+20/09/20 17:48:55 Game component class AnimateShotComponent added to object with Tag: 1 at x: 333, y: 709
+20/09/20 17:48:55 Game component class MoveTurretComponent added to object with Tag: 1 at x: 333, y: 709
+20/09/20 17:48:55 Game component class ShootProjectileComponent added to object with Tag: 1 at x: 333, y: 709
+20/09/20 17:48:55 Game component class AnimateTankTrackComponent added to object with Tag: 1 at x: 320, y: 720
+20/09/20 17:48:55 Game component class AnimateTankTrackComponent added to object with Tag: 1 at x: 364, y: 720
+20/09/20 17:48:55 Game component class RotateTankComponent added to object with Tag: 1 at x: 320, y: 720
+20/09/20 17:48:55 Game component class MoveTankComponent added to object with Tag: 1 at x: 320, y: 720
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game collision component class ReflectCComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game collision component class ReflectCComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game collision component class ReflectCComponent added to object with Tag: 2 at x: 0, y: 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 1 at x: 320, y: 720
+20/09/20 17:48:55 Game collision component class RevertMovementCComponent added to object with Tag: 1 at x: 320, y: 720
+20/09/20 17:48:55 Player created at row 9, column 4
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 720
+20/09/20 17:48:55 Wall created at row 9, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 800
+20/09/20 17:48:55 Wall created at row 10, column 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 800
+20/09/20 17:48:55 Wall created at row 10, column 15
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 0, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 0
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 80, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 1
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 160, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 2
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 240, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 3
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 320, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 4
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 400, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 5
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 480, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 6
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 560, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 7
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 640, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 8
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 720, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 9
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 800, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 10
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 880, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 11
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 960, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 12
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1040, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 13
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1120, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 14
+20/09/20 17:48:55 Game component class LogInSpatialGridComponent added to object with Tag: 0 at x: 1200, y: 880
+20/09/20 17:48:55 Wall created at row 11, column 15
+20/09/20 17:48:55 Map created in 385 ticks
+20/09/20 17:48:55 World loaded in 43875 ticks
+20/09/20 17:49:05 Path built in 0 ticks
+20/09/20 17:49:06 [KEY DOWN] time 55167; code 100; char D;
+20/09/20 17:49:07 [KEY DOWN] time 55572; code 119; char W;
+20/09/20 17:49:07 [KEY UP] time 55933; code 100; char D;
+20/09/20 17:49:07 [KEY DOWN] time 56083; code 97; char A;
+20/09/20 17:49:07 [KEY UP] time 56330; code 97; char A;
+20/09/20 17:49:07 [KEY DOWN] time 56398; code 1073741903; char Right;
+20/09/20 17:49:08 [KEY UP] time 56652; code 1073741903; char Right;
+20/09/20 17:49:08 [KEY UP] time 56748; code 119; char W;
+20/09/20 17:49:08 [KEY DOWN] time 56862; code 32; char Space;
+20/09/20 17:49:08 [KEY UP] time 57012; code 32; char Space;
+20/09/20 17:49:08 [KEY DOWN] time 57095; code 97; char A;
+20/09/20 17:49:08 [KEY DOWN] time 57194; code 115; char S;
+20/09/20 17:49:08 Projectile reflected at x: 639.000000, y: 492.000000
+20/09/20 17:49:08 Projectile reflected at x: 639.000000, y: 492.000000
+20/09/20 17:49:08 Projectile reflected at x: 649.000000, y: 512.000000
+20/09/20 17:49:08 Projectile reflected at x: 649.000000, y: 512.000000
+20/09/20 17:49:08 [KEY UP] time 57477; code 115; char S;
+20/09/20 17:49:09 [KEY DOWN] time 57676; code 119; char W;
+20/09/20 17:49:09 Projectile reflected at x: 686.000000, y: 424.000000
+20/09/20 17:49:09 Projectile removed from battlefield at x: 686.000000, y: 424.000000
+20/09/20 17:49:09 Projectile removed from battlefield at x: 525.000000, y: 679.000000
+20/09/20 17:49:09 Collision at x: 525.000000, y: 679.000000 between Tag: 2 and Tag: 1
+20/09/20 17:49:09 Tank exploded by projectile at x: 525.000000, y: 679.000000
+20/09/20 17:49:09 [KEY UP] time 58291; code 97; char A;
+20/09/20 17:49:09 [KEY UP] time 58489; code 119; char W;
+20/09/20 17:49:10 Projectile reflected at x: 802.000000, y: 630.000000
+20/09/20 17:49:10 Projectile reflected at x: 348.000000, y: 882.000000
+20/09/20 17:49:11 Projectile removed from battlefield at x: 615.000000, y: 881.000000
+20/09/20 17:49:11 Projectile reflected at x: 320.000000, y: 880.000000
+20/09/20 17:49:12 Projectile reflected at x: 79.000000, y: 442.000000
+20/09/20 17:49:13 Projectile reflected at x: 80.000000, y: 480.000000
+20/09/20 17:49:13 Projectile removed from battlefield at x: 70.000000, y: 504.000000
+20/09/20 17:49:13 Font loading started! Path is '../Assessment/Content/roboto.ttf'
+20/09/20 17:49:13 Font loading started! Path is '../Assessment/Content/roboto.ttf'
+20/09/20 17:49:18 Game closed
